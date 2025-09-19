@@ -1,0 +1,12 @@
+[submodule "cloud-functions"]
+	path = cloud-functions
+	url = https://github.com/surya-s-1/captain-cloud-functions.git
+[submodule "ai-agent"]
+	path = ai-agent
+	url = https://github.com/surya-s-1/captain-ai-agent-backend.git
+[submodule "intergrations-backend"]
+	path = intergrations-backend
+	url = https://github.com/surya-s-1/captain-tool-integrations.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/surya-s-1/captain-frontend.git
